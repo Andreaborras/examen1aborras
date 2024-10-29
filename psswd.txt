@@ -1,1 +1,1 @@
-# Ignorar archivos psswd.txt
+
